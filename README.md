@@ -1,1 +1,27 @@
 # java-glossary-tutorial
+
+- public
+- private
+- static
+- abstract 
+- interface
+- injection
+- class vs ____ vs _____
+- arrays, and how they differ from JS, Python, &/OR C
+- boolean
+- ArrayList
+- HashSet
+- HashMap
+- break
+- continue
+- return
+- if/else/etc
+- switches
+- IntelliJ
+- JDK (this will have multiple parts)
+- constructors, maybe talk about relationship with injectors
+- double (different from JS term)
+- .jar files
+- JVM (Java Virtual Machine)
+- runtime vs compile time
+- scope as its own topic
