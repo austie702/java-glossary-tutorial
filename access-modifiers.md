@@ -1,5 +1,5 @@
 Java provides a number of access modifiers to set access levels for classes, variables, methods, and constructors. 
-The four access modifiers are: Default, Public, Private, & Protected. 
+The four access modifiers are: Default, Public, Private, Protected, & Static. 
 
 *Classes*
 Classes can only use two of the access modifiers: Default & Public
