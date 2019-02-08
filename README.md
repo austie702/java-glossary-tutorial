@@ -10,7 +10,7 @@
 - static & non-static variables
 - static & non-static methods
 
-
+*...*
 - abstract 
 - interface
 - injection
