@@ -51,3 +51,4 @@ https://www.tutorialspoint.com/java/java_collections.htm
 - JVM (Java Virtual Machine)
 - runtime vs compile time
 - scope as its own topic
+- instance variables
