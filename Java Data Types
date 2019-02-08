@@ -1,0 +1,22 @@
+Data type
+Data type specifies the size and type of values that can be stored in an identifier. The Java language is rich in its data types. Different data types allow you to select the type appropriate to the needs of the application.
+
+Data types in Java are classified into two types:
+
+Primitive—which include Integer, Character, Boolean, and Floating Point.
+Non-primitive—which include Classes, Interfaces, and Arrays.
+Primitive Data Types
+1. Integer
+Integer types can hold whole numbers such as 123 and −96. The size of the values that can be stored depends on the integer type that we choose.
+
+Type	    Size	      Range of values that can be stored
+byte	    1 byte	    −128 to 127
+short	    2 bytes	    −32768 to 32767
+int	      4 bytes	    −2,147,483,648 to 2,147,483,647
+long	    8 bytes	    9,223,372,036,854,775,808 to 9,223,372,036,854,755,807
+
+The range of values is calculated as −(2n−1) to (2n−1)−1; where n is the number of bits required. For example, the byte data type requires 1 byte = 8 bits. Therefore, the range of values that can be stored in the byte data type is −(28−1) to (28−1)−1
+= −27 to (27) -1
+= −128 to 127
+
+https://www.sitepoint.com/beginning-java-data-types-variables-and-arrays/
