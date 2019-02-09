@@ -1,5 +1,6 @@
 # java-glossary-tutorial
 
+**Week 01**
 *Access Modifiers in Java*
 - public
 - protected
@@ -18,15 +19,6 @@
 - arrays, and how they differ from JS, Python, &/OR C
 - boolean
 
-*Data Structures*
-- Enumeration (not a data structure, but an interface?)
-- Bitset
-- Vector
-- Stack
-- Dictionary
-- HashTable
-- Properties (subclass of HashTable)
-https://www.tutorialspoint.com/java/java_collections.htm
 
 *Collections?*
 - ArrayList
@@ -52,3 +44,15 @@ https://www.tutorialspoint.com/java/java_collections.htm
 - runtime vs compile time
 - scope as its own topic
 - instance variables
+
+
+**Week 02**
+*Data Structures*
+- Enumeration (not a data structure, but an interface?)
+- Bitset
+- Vector
+- Stack
+- Dictionary
+- HashTable
+- Properties (subclass of HashTable)
+https://www.tutorialspoint.com/java/java_collections.htm
